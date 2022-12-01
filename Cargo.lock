@@ -1154,8 +1154,7 @@ dependencies = [
 [[package]]
 name = "odbc-sys"
 version = "0.21.2"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "5fa96a125cee9f1fe33cb69d6517466afc4e9cb1f44afdcc67210e2776aec7b2"
+source = "git+https://ghproxy.com/https://github.com/gamife/odbc-sys.git?branch=master#b6622f3c22f2987fc422803d616229cdbf2163a8"
 
 [[package]]
 name = "odbcsv"
